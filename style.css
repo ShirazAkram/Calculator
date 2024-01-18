@@ -1,0 +1,41 @@
+.main-container {
+    background-color: bisque;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgba(255, 235, 205, 0.548);
+}
+.parent-container {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0px 3px 25px #00000029;
+    background-color: rgba(255, 255, 255, 0.493);
+
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 255, 0.863);
+    color: rgb(225, 225, 235);
+}
+
